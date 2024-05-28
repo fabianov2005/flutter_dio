@@ -1,0 +1,92 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "voll",
+            "cwd": "voll",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "voll (profile mode)",
+            "cwd": "voll",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "voll (release mode)",
+            "cwd": "voll",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },    
+        {
+            "name": "flutterdio",
+            "cwd": "flutterdio",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutterdio (profile mode)",
+            "cwd": "flutterdio",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutterdio (release mode)",
+            "cwd": "flutterdio",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "imc_calculator",
+            "cwd": "imc_calculator",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "indicaai",
+            "cwd": "indicaai",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "indicaai (profile mode)",
+            "cwd": "indicaai",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "indicaai (release mode)",
+            "cwd": "indicaai",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "meu_app_exception",
+            "cwd": "meu_app_exception",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_app_oo",
+            "cwd": "meu_app_oo",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_app_console_dart",
+            "cwd": "dart_dio/meu_app_console_dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
